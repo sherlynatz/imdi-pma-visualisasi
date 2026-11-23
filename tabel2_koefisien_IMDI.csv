@@ -1,0 +1,6 @@
+﻿,koefisien,galat_baku,CI95_bawah,CI95_atas
+"OLS, Model 1",0.0871,0.0107,0.0661,0.1081
+"FE robust, Model 1",0.0301,0.0067,0.0169,0.0432
+"OLS, Model 2",0.0142,0.0089,-0.0034,0.0317
+"FE robust, Model 2",0.016,0.0081,0.0001,0.0319
+"FE robust + efek tahun, Model 2",0.0078,0.0084,-0.0088,0.0244
